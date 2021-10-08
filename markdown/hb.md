@@ -14,7 +14,12 @@
 
 SỔ TAY NHÂN VIÊN
 (EMPLOYEE HANDBOOK)
-
+Phần 1: GIỚI THIỆU
+- Lời nói đầu của Giám Đốc
+- Sơ lược về Công ty
+- Tầm nhìn
+- Sứ mệnh
+- Giá trị cốt lõi
 
 
 
@@ -35,8 +40,8 @@ SỔ TAY NHÂN VIÊN
 
 
 Phần A. TỔNG QUAN
-I.	GIỚI THIỆU VÊ TÀI LIỆU
-1.	Mục đích
+I.	**GIỚI THIỆU VÊ TÀI LIỆU**
+1.	**Mục đích**
 •	Mô tả chi tiết về quyền lợi và trách nhiệm của Nhân viên làm việc tại Công ty Carp Tech; 
 •	Những chế độ đãi ngộ đối với Nhân viên làm việc tại Công ty cổ phần Carp Tech;
 •	Làm tài liệu tổng hợp các quy định, nội quy do Công ty đưa ra lưu hành trong nội bộ để Nhân viên trong toàn Công Ty thực hiện tốt những quy định trên. 
